@@ -1,0 +1,16 @@
+body{
+    background-color: rgba(30, 82, 160, 0.753);
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid black;
+}
+header{
+    background-color: rgb(69, 22, 122);
+    text-align: center;
+    height: 110px;
+}
+footer{
+    background-color: black;
+    border: 1px solid black;
+    color: white;
+    text-align: center;
+}
